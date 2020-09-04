@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#product {
+    .product-item {
+        .product-item-inner {
+            img {
+                height: 300px;
+                object-fit: contain;
+            }
+        }
+    }
+}
